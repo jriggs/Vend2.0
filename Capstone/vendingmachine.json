@@ -1,0 +1,30 @@
+ [
+  {
+    "slot": "D1",
+    "name": "Trident",
+    "price": "15.25",
+    "type": "gum",
+    "quantity": 10
+  },
+  {
+    "slot": "D2",
+    "name": "Wrigley",
+    "price": "31.25",
+    "type": "gum",
+    "quantity": 30
+  },
+  {
+    "slot": "D3",
+    "name": "Froot by the Foot",
+    "price": "61.25",
+    "type": "gum",
+    "quantity": 10
+  },
+  {
+    "slot": "D4",
+    "name": "Bubble Yum",
+    "price": "15.25",
+    "type": "gum",
+    "quantity": 20
+  }
+  ]
